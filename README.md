@@ -10,7 +10,7 @@ I am deeply passionate about the field of Artificial Intelligence, where the int
 
 ## 📚 Education
 - **B.Tech. in  Artificial Intelligence and Machine Learning**  
-  DMIHER, Faculty of Engineering and Technology
+  DMIHER, Faculty of Engineering and Technology,
   Nagpur, India 
   *Dec. 2021 – Jun. 2025*
 
@@ -20,6 +20,7 @@ I am deeply passionate about the field of Artificial Intelligence, where the int
 
 - Natural Language Processing (NLP)  
 - Large Language Models (LLMs)
+- Computer Vision
 
 ---
 
