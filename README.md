@@ -31,7 +31,8 @@ I am deeply passionate about the field of Artificial Intelligence, where the int
 
 ### 🗣️ Languages
 - **Natural Languages:** Hindi *(Native)*, English 
-- **Programming Languages:** Python, C++, JavaScript, PHP, Go, MATLAB  
+- **Programming Languages:** Python, C++, JavaScript
+- **Markup & stylesheet language:** HTML, CSS
 - **Typesetting:** LaTeX, Markdown  
 
 ### ⚙️ Frameworks & Tools
@@ -40,6 +41,18 @@ I am deeply passionate about the field of Artificial Intelligence, where the int
 - Keras
 - Scikit-learn
 - OpenCV
+- Django
+- React.js
+- git
+
+### 🤖 Artificial intelligence & Machine Learning
+- Data preprocessing
+- Data analysis
+- Regression
+- Classification
+- Clustering
+- ANN
+- CNN
 ---
 
 
