@@ -7,7 +7,7 @@ I am deeply passionate about the field of Artificial Intelligence, where the int
 ![Profile Views](https://komarev.com/ghpvc/?username=BinaryMonkAnkit&color=blueviolet)
 
 
-![hiyouga's GitHub stats](https://github-readme-stats.vercel.app/api?username=BinaryMonkAnkit&show_icons=true&theme=tokyonight)
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=BinaryMonkAnkit&show_icons=true&theme=tokyonight)
 
 ---
 
