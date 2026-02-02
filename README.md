@@ -61,4 +61,4 @@ Thanks for visiting! Feel free to check out my repositories or connect.
 - 🐦 [Twitter / X](https://x.com/Ankit_Singh1156)
 - 💻 [Youtube Channel](https://www.youtube.com/@BhaaiCodeIt)
 - 📧 Email: iamankitsingh987@gmail.com
-- 📝 [CV / Resume](https://drive.google.com/file/d/1kNxy12MiQDnqgLMNHiET7mSi4JDnUR9I/view?usp=sharing)
+- 📝 [CV / Resume](https://drive.google.com/file/d/1T_BJ8FRtE8JT92qhvMf4kEDpTqXYNvGx/view?usp=sharing)
