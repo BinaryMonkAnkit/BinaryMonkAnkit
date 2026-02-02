@@ -1,13 +1,10 @@
 # 👋 Hi there, I'm Ankit.
 
-I am deeply passionate about the field of Artificial Intelligence, where the intersection of machine learning, data, and human cognition continues to inspire my research journey. My primary focus lies in Natural Language Processing (NLP)—exploring how machines can understand, generate, and reason about human language. From large language models to semantic understanding, I am fascinated by the potential of language technologies to transform how we interact with information. In parallel, I am also drawn to Computer Vision (CV), where enabling machines to perceive and interpret visual data opens up a world of possibilities—from intelligent robotics to visual reasoning. I strive to contribute to AI systems that are not only powerful but also human-aligned, interpretable, and impactful in real-world applications.
+I am very enthusiastic about Artificial Intelligence. The intersection of machine learning, data, and human intelligence drives my research adventure. My primary area of interest is Natural Language Processing (NLP). I investigate the possibilities of machines processing, producing, and reasoning about human language. I am intrigued by large language models and semantic processing. Language technologies have the potential to revolutionize the way we engage with information. Conversely, I am also interested in Computer Vision (CV). This area enables machines to perceive and make sense of visual information, which has a multitude of applications, ranging from intelligent robotics to visual reasoning. I am eager to contribute to the development of AI systems that are strong, human-friendly, interpretable, and applicable in the real world.
 
 ## 📈 GitHub Stats 
 <!-- Remove if not needed -->
 ![Profile Views](https://komarev.com/ghpvc/?username=BinaryMonkAnkit&color=blueviolet)
-
-
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=BinaryMonkAnkit&show_icons=true&theme=tokyonight)
 
 ---
 
