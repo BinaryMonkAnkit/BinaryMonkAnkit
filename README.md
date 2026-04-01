@@ -1,10 +1,29 @@
 # 👋 Hi there, I'm Ankit.
 
-I am very enthusiastic about Artificial Intelligence. The intersection of machine learning, data, and human intelligence drives my research adventure. My primary area of interest is Natural Language Processing (NLP). I investigate the possibilities of machines processing, producing, and reasoning about human language. I am intrigued by large language models and semantic processing. Language technologies have the potential to revolutionize the way we engage with information. Conversely, I am also interested in Computer Vision (CV). This area enables machines to perceive and make sense of visual information, which has a multitude of applications, ranging from intelligent robotics to visual reasoning. I am eager to contribute to the development of AI systems that are strong, human-friendly, interpretable, and applicable in the real world.
+I am a Versatile Backend Engineer specializing in building high-scale, distributed systems using Python and Node.js. I design backend architectures that handle real-world traffic, concurrency, and performance constraints with reliability.
+
+I leverage Node.js to build high-concurrency, real-time APIs using event-driven architecture, and use Python (FastAPI/Django) for data-intensive processing, business logic, and AI-integrated services.
+
+My work focuses on bridging the gap between fast frontend delivery and robust backend systems, ensuring APIs are not just functional, but scalable, optimized, and production-ready.
 
 ## 📈 GitHub Stats 
 <!-- Remove if not needed -->
 ![Profile Views](https://komarev.com/ghpvc/?username=BinaryMonkAnkit&color=blueviolet)
+
+---
+## 🚀 Backend + AI Engineering Focus
+
+I extend backend systems with application-level AI capabilities, building intelligent services such as:
+
+- LLM-powered APIs
+- Retrieval-Augmented Generation (RAG) systems
+- Agentic workflows using LangChain & LangGraph
+- Multi-step reasoning pipelines
+
+This allows me to design systems that are both:
+
+- System-efficient (backend engineering)
+- Context-aware (AI-powered)
 
 ---
 
@@ -16,42 +35,76 @@ I am very enthusiastic about Artificial Intelligence. The intersection of machin
 
 ---
 
-## 🔬 Working feild Interests
-
-- Natural Language Processing (NLP)  
-- Large Language Models (LLMs)
-- Computer Vision
+## 🔬 Core Engineering Interests
+- Scalable Backend Systems  
+- Distributed Architectures  
+- High-Concurrency API Design  
+- Applied AI Systems (LLMs + Agents)  
+- Real-time Systems  
 
 ---
 
-## 🛠️ Skills
+## ⚙️ Backend Engineering
+- Node.js (V8, Event Loop, Async I/O, Streams)  
+- Express.js, Fastify (REST API design, middleware, routing)  
+- WebSockets (ws, Socket.IO) (real-time systems)  
+- FastAPI (ASGI, Pydantic, async endpoints)  
+- Django, Django REST Framework (DRF)  
+- API Design (REST, JWT Auth, RBAC, rate limiting)  
+- Concurrency & Performance (non-blocking I/O, clustering, caching strategies)  
+- Caching (Redis – pub/sub, caching layer)  
+- Message Queues (basics) (Kafka/RabbitMQ concepts)  
 
-### 🗣️ Languages
-- **Natural Languages:** Hindi *(Native)*, English 
-- **Programming Languages:** Python, C++, JavaScript
-- **Markup & stylesheet language:** HTML, CSS
-- **Typesetting:** LaTeX, Markdown  
-
-### ⚙️ Frameworks & Tools
-- PyTorch  
-- TensorFlow
-- Keras
-- Scikit-learn
-- OpenCV
-- Django
-- React.js
-- git
-
-### 🤖 Artificial intelligence & Machine Learning
-- Data preprocessing
-- Data analysis
-- Regression
-- Classification
-- Clustering
-- ANN
-- CNN
 ---
 
+## 🤖 Applied AI Engineering
+- LLM APIs (OpenAI / compatible APIs)  
+- LangChain (chains, tools, memory)  
+- LangGraph (stateful agent workflows)  
+- Agentic AI Systems (tool calling, multi-step execution)  
+- RAG Pipelines (FAISS / ChromaDB, embeddings, retrieval optimization)  
+- Prompt Engineering (structured prompting, system design)  
+- Text Processing (tokenization, embeddings, semantic search)  
+
+---
+
+## 🌐 Frontend
+- React.js (Hooks, Context API, Component Architecture)  
+- State Management (Redux Toolkit / Context API)  
+- API Integration (Axios, Fetch, async flows)  
+- Basic UI Systems (responsive layouts, component reuse)  
+
+---
+
+## ☁️ Cloud & DevOps Tools
+- Docker (image building, containerization)  
+- Linux (processes, networking basics, shell commands)  
+- Nginx (reverse proxy basics)  
+- CI/CD Basics (GitHub Actions)  
+- Deployment (API deployment on cloud VMs / platforms)  
+
+---
+
+## 💻 Programming
+- Python (asyncio, data processing)  
+- JavaScript (ES6+, async/await, event loop)  
+- C++ (core fundamentals)  
+
+---
+
+## 🗄️ Databases & Data
+- PostgreSQL (indexes, joins, query optimization)  
+- MongoDB (aggregation pipeline, schema design)  
+- Redis (in-memory data store, caching)  
+
+---
+
+## 📊 ML Foundations
+- Scikit-learn (model training, evaluation)  
+- PyTorch (basic model building)  
+- TensorFlow/Keras (CNN/ANN basics)  
+- Data Preprocessing (Pandas, NumPy)
+---
 
 
 Thanks for visiting! Feel free to check out my repositories or connect.
