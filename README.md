@@ -56,9 +56,5 @@ I am very enthusiastic about Artificial Intelligence. The intersection of machin
 
 Thanks for visiting! Feel free to check out my repositories or connect.
 ## 🌐 Connect with Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/ankit-kumar-singh3/)
 - 🐦 [Twitter / X](https://x.com/Ankit_Singh1156)
-- 💻 [Youtube Channel](https://www.youtube.com/@BhaaiCodeIt)
 - 📧 Email: iamankitsingh987@gmail.com
-- 📝 [CV / Resume](https://drive.google.com/file/d/1T_BJ8FRtE8JT92qhvMf4kEDpTqXYNvGx/view?usp=sharing)
