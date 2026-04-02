@@ -1,9 +1,7 @@
 # 👋 Hi there, I'm Ankit.
 
-I am a Versatile Backend Engineer specializing in building high-scale, distributed systems using Python and Node.js. I design backend architectures that handle real-world traffic, concurrency, and performance constraints with reliability.
-
+I am a Polyglot Full Stack Engineer specializing in building high-scale, distributed systems using Python and Node.js, with a working command of React.js and Next.js on the frontend. I design backend architectures that handle real-world traffic, concurrency, and performance constraints with reliability.
 I leverage Node.js to build high-concurrency, real-time APIs using event-driven architecture, and use Python (FastAPI/Django) for data-intensive processing, business logic, and AI-integrated services.
-
 My work focuses on bridging the gap between fast frontend delivery and robust backend systems, ensuring APIs are not just functional, but scalable, optimized, and production-ready.
 
 ## 📈 GitHub Stats 
@@ -69,10 +67,11 @@ This allows me to design systems that are both:
 ---
 
 ## 🌐 Frontend
-- React.js (Hooks, Context API, Component Architecture)  
+- React.js (Hooks, Context API, Component Architecture)
 - State Management (Redux Toolkit / Context API)  
 - API Integration (Axios, Fetch, async flows)  
-- Basic UI Systems (responsive layouts, component reuse)  
+- Basic UI Systems (responsive layouts, component reuse)
+- Next.js   
 
 ---
 
@@ -109,5 +108,8 @@ This allows me to design systems that are both:
 
 Thanks for visiting! Feel free to check out my repositories or connect.
 ## 🌐 Connect with Me
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-kumar-singh3/)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://ankit-space.netlify.app/)
 - 🐦 [Twitter / X](https://x.com/Ankit_Singh1156)
 - 📧 Email: iamankitsingh987@gmail.com
+
